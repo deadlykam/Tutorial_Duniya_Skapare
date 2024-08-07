@@ -1,16 +1,16 @@
-# Tutorial_Duniya_Skapare
+# Tutorial Duniya Skapare
 
-<p align="center"><a href="" target="_blank"><img src="https://imgur.com/OBcDdDL.png"></a></p>
+<p align="center"><a href="https://youtu.be/eq8Kj1s_X8E" target="_blank"><img src="https://imgur.com/OBcDdDL.png"></a></p>
 
 ### Introduction:
-A tutorial on how to use [Duniya Skapare](https://github.com/deadlykam/Duniya_Skapare) plugin. This is a simple Godot plugin that helps to create 3D worlds using procedural algorithms. Here I show you how to use [Duniya Skapare's](https://github.com/deadlykam/Duniya_Skapare) Wave Function Collapse to generate 3D worlds. Watch my [Video]() to understand how the plugin works.
+A tutorial on how to use [Duniya Skapare](https://github.com/deadlykam/Duniya_Skapare) plugin. This is a simple Godot plugin that helps to create 3D worlds using procedural algorithms. Here I show you how to use [Duniya Skapare's](https://github.com/deadlykam/Duniya_Skapare) Wave Function Collapse to generate 3D worlds. Watch my [Video](https://youtu.be/eq8Kj1s_X8E) to understand how the plugin works.
 
 ## Prerequisites
 #### Godot Game Engine
 Godot version **v4.1.3.stable.mono.official [f06b6836a]** and above should work. Previous Godot 4 versions should work but those have not been tested.
 ***
 ## Stable Build
-[Stable Build - main](https://github.com/deadlykam/Tutorial_Duniya_Skapare) is the stable version of the tutorial and is similar to the one shown in the [Video]().
+[Stable Build - main](https://github.com/deadlykam/Tutorial_Duniya_Skapare) is the stable version of the tutorial and is similar to the one shown in the [Video](https://youtu.be/eq8Kj1s_X8E).
 ***
 ## Authors
 - Syed Shaiyan Kamran Waliullah 
