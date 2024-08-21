@@ -10,7 +10,7 @@ A tutorial on how to use [Duniya Skapare](https://github.com/deadlykam/Duniya_Sk
 Godot version **v4.1.3.stable.mono.official [f06b6836a]** and above should work. Previous Godot 4 versions should work but those have not been tested.
 ***
 ## Stable Build
-[Stable Build - main](https://github.com/deadlykam/Tutorial_Duniya_Skapare) is the stable version of the tutorial and is similar to the one shown in the [Video](https://youtu.be/eq8Kj1s_X8E).
+[Stable Build - main](https://github.com/deadlykam/Tutorial_Duniya_Skapare) is the stable version of the tutorial and is similar to the one shown in the [Video](https://youtu.be/eq8Kj1s_X8E). The plugin used is Stable-v1.0.0(https://github.com/deadlykam/Duniya_Skapare/releases/tag/v1.0.0)
 ***
 ## Authors
 - Syed Shaiyan Kamran Waliullah 
